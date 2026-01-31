@@ -15,8 +15,8 @@ class Database {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             String url = "jdbc:mysql://localhost:3306/quiz_system";
-            String username = "root";
-            String password = "sonu1911";
+            String username = "Your_username";
+            String password = "your_password";
 
             Connection connection = DriverManager.getConnection(url, username, password);
             System.out.println("Connection Established successfully!");
@@ -312,4 +312,5 @@ class ResultWindow extends JFrame {
 }
 
 	
+
 	
