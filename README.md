@@ -29,12 +29,14 @@ scalable, and easy to update without changing the source code.
 
 # Set Up Database
 
-  Create database and table using SQL provided above
-  Update database credentials in DBConnection.java
+  file::- question.ibd 
+  this file is dataset file of MYSQL. Save it in you localhost and use it.
+
+ this Query for connecting database 
 
     String url = "jdbc:mysql://localhost:3306/quiz_db";
-    String user = "root";
-    String password = "your_password";
+    String user = "root";               /* Enter your mysql username
+    String password = "your_password";  /* Enter your mysql password
 
 # How to run this on console:-
 
