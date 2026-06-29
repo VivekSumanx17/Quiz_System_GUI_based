@@ -57,3 +57,8 @@ scalable, and easy to update without changing the source code.
   Timer-based quiz
   Store user scores in database
   Result analysis with charts
+
+ <img width="611" height="491" alt="Screenshot 2026-06-29 141323" src="https://github.com/user-attachments/assets/44ab4d94-b5f1-456b-bed1-26e2811f5f38" />
+ <img width="1441" height="496" alt="Screenshot 2026-06-29 141336" src="https://github.com/user-attachments/assets/9e6a799f-0f42-4eaa-be59-19c8aa92a384" />
+<img width="485" height="363" alt="Screenshot 2026-06-29 141412" src="https://github.com/user-attachments/assets/3f83eb5b-0a4a-4041-a815-2a4baf3a384f" />
+
